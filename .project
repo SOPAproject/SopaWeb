@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SopaWeb</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] src</name>
+			<type>2</type>
+			<locationURI>DOCUMENTS/away3d/away3d-core-fp11-4.1.6/src</locationURI>
+		</link>
+		<link>
+			<name>bin-release</name>
+			<type>2</type>
+			<location>D:/my_as3</location>
+		</link>
+		<link>
+			<name>bin-release1</name>
+			<type>2</type>
+			<location>D:/my_as3/WebSopa</location>
+		</link>
+		<link>
+			<name>bin-release2</name>
+			<type>2</type>
+			<location>D:/my_as3/SopaWeb</location>
+		</link>
+	</linkedResources>
+</projectDescription>
